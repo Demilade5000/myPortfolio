@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+/* body{
+  background-image: url();
+} */
+#Home{
+  position: fixed;left: 200px;top: 10px;
+  font-size: 10px;
+  text-decoration: none;
+  list-style: none;
+}
+#Projects{
+  position: fixed;left: 250px;top: 10px;
+  font-size: 10px;
+  list-style: none;
+  text-decoration: none;
+}
+#Contact{
+  position: fixed;left: 300px;top: 10px;
+  font-size: 10px;
+  list-style: none;
+}
